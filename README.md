@@ -1,4 +1,4 @@
-# zhixian.github.io
+# louzhixian.github.io
 
 1. to make use of [hexo-all-minifier](https://github.com/chenzhutian/hexo-all-minifier), in mac we should first run
 
