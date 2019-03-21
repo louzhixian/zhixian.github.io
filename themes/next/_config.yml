@@ -241,7 +241,7 @@ avatar:
   # In site directory (source/uploads): /uploads/avatar.gif
   # You can also use other linking images.
   # url: #/images/avatar.gif
-  url: "http://yamen.co/zhixian.png"
+  url: "https://blog.yamen.co/res/img/zhixian.png"
   # If true, the avatar would be dispalyed in circle.
   rounded: true
   # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
@@ -379,9 +379,9 @@ reward_settings:
   comment: <font color="darkblue"> <hr /> 从 <b>1</b> 到 <b>10</b> 取值，你认为这篇文章对你有多大帮助？:P <p> ↓ </p> </font>
 
 reward:
-  wechatpay: http://yamen.co/wechatpay.jpg
+  wechatpay: https://blog.yamen.co/res/img/wechatpay.jpg
   # alipay: /images/alipay.png
-  bitcoin: http://yamen.co/bitcoin.png
+  bitcoin: https://blog.yamen.co/res/img/btc_3HcQZwkRTwyYcqimqnwmzxemNYT8BeexRG.png
 
 # Related popular posts
 # Dependencies: https://github.com/tea3/hexo-related-popular-posts
