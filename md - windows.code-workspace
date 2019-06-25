@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.cursorSmoothCaretAnimation": true,
+		"editor.fontSize": 16,
+		"editor.minimap.enabled": false,
+		"workbench.colorTheme": "Tomorrow Night Blue",
+		"vim.autoSwitchInputMethod.obtainIMCmd": "C:\\Users\\hclly\\OneDrive\\MD\\im-select.exe",
+		"vim.autoSwitchInputMethod.switchIMCmd": "C:\\Users\\hclly\\OneDrive\\MD\\im-select.exe {im}",
+		"vim.autoSwitchInputMethod.defaultIM": "1033",
+		"vim.autoSwitchInputMethod.enable": true,
+		"vim.cursorStylePerMode.normal": "underline",
+		"vim.cursorStylePerMode.visual": "underline"
+	}
+}
